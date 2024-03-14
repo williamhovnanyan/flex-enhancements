@@ -11,7 +11,7 @@
       },
       "dual_channel_recording": {
         "enabled": true,
-        "channel": "customer"
+        "channel": "worker"
       }
     }
   }
